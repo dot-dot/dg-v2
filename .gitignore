@@ -1,0 +1,4 @@
+artifacts/
+.vs/
+src/dg-v2/Properties/PublishProfiles/
+src/dg-v2/project.lock.json
